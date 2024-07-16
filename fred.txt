@@ -1,3 +1,5 @@
 Hello Fred.
 How are you?
 Where do you live?
+Tell me your living status.
+Do you live with your dad?
